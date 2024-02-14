@@ -1,4 +1,6 @@
-# HM5.py Readme
+# DSCI 510 Final Project Los Angeles number of shooting incidents and apartment prices analysis
+For the final project, I created a dataset in the form of a CSV file called 'losangeleshouseshooting.csv'. This dataset was created using two different data sources listed in the Data Sources section below, which are provided in a zip file in a folder named 'Datasets'. Two intermediate CSV files, 'losangelesshootings.csv' and 'housedata_final.csv', are also included in this folder.
+Using these datasets, I analyzed shooting numbers taking place in several areas (zip codes) of Los Angeles county and their correlation with housing prices in those particular zip codes.
 
 ## Description
 HM4.py is a Python script that scrapes housing data from Craigslist, displays data dimensions and head for the shooting csv data, and reads a CSV file containing house data and adds a new column with the corresponding zip code for each house.
